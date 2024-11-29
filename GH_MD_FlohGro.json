@@ -466,7 +466,7 @@
         "w": "drafts://workspace?name=[[value]]",
         "s": "drafts://quickSearch?query=[[value]]",
         "url": "[[value_unencoded]]",
-        "t": "drafts://search?tag=[[value]]",
+        "t": "drafts://search?tag=[[value]]&folder=all",
         "cmd": "drafts://commandPalette?query=[[value]]",
         "a": "drafts://actionSearch?query=[[value]]",
         "r": "drafts://runAction?text=&action=[[value]]",
